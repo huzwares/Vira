@@ -424,7 +424,9 @@ section a, div a {
 	text-decoration: none;
 	color: black;
 }
-
+div.container {
+text-align: center;
+}
 /* Larger than mobile */
 @media (min-width: 400px) {}
 
