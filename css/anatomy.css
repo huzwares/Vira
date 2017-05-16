@@ -409,7 +409,7 @@ section {
 	text-align: center;
 	margin-top: 15vh;
 }
-section h2, div.section a {
+section h2, .donate a {
 	font-size: 16px;
 	display: inline-block;
 	padding: 25px;
@@ -420,11 +420,11 @@ section h2:first-child {
 section h2:last-child {
 	padding-left: 0;
 }
-section a, div.section a {
+section a, .donate a {
 	text-decoration: none;
 	color: black;
 }
-div.container {
+.donate {
 text-align: center;
 }
 /* Larger than mobile */
